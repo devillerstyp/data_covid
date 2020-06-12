@@ -1,0 +1,58 @@
+[
+    {
+        "country" : "Russia",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "Iran",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "Cuba",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "a",
+        "limit": 5,
+        "valid": true
+    },
+    {
+        "country" : "Venezuela",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "Brazil",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "China",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "Congo",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "France",
+        "limit": 1,
+        "valid": true
+    },
+    {
+        "country" : "Algerie",
+        "limit": 0,
+        "valid": false
+    },
+    {
+        "country" : "bdd",
+        "limit": 0,
+        "valid": false
+    }
+
+]
